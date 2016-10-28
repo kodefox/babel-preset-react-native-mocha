@@ -1,0 +1,35 @@
+{
+  "name": "babel-preset-react-native-mocha",
+  "version": "1.9.0",
+  "description": "Babel preset for React Native testing with Mocha",
+  "main": "index.js",
+  "repository": "https://github.com/kodefox/babel-preset-react-native-mocha",
+  "keywords": [
+    "babel",
+    "preset",
+    "mocha",
+    "react-native"
+  ],
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/kodefox/babel-preset-react-native-mocha/issues"
+  },
+  "homepage": "https://github.com/kodefox/babel-preset-react-native-mocha",
+  "dependencies": {
+    "babel-plugin-react-transform": "2.0.2",
+    "babel-plugin-syntax-async-functions": "^6.5.0",
+    "babel-plugin-syntax-class-properties": "^6.5.0",
+    "babel-plugin-syntax-flow": "^6.5.0",
+    "babel-plugin-syntax-jsx": "^6.5.0",
+    "babel-plugin-syntax-trailing-function-commas": "^6.5.0",
+    "babel-plugin-transform-async-to-generator": "^6.16.0",
+    "babel-plugin-transform-class-properties": "^6.5.0",
+    "babel-plugin-transform-es2015-destructuring": "^6.5.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.5.0",
+    "babel-plugin-transform-flow-strip-types": "^6.5.0",
+    "babel-plugin-transform-object-assign": "^6.5.0",
+    "babel-plugin-transform-object-rest-spread": "^6.5.0",
+    "babel-plugin-transform-react-display-name": "^6.5.0",
+    "babel-plugin-transform-react-jsx": "^6.5.0"
+  }
+}
